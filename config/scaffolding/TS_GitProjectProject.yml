@@ -2,12 +2,12 @@ version: "1.0"
 info:
   model: int-scaffold
 packages:
+- name: WmJDBCAdapter
+  wpmServer: https://packages.webmethods.io
+  wpmRegistry: licensed
+  wpmVersion: v10.3.10.21
 - name: TS_GitProjectProject
   gitServerName: TSGitHub
   gitUrl: https://github.com/tirumaniwipro
   gitUsername: tirumaniwipro
   gitBranch: main
-- name: WmJDBCAdapter
-  wpmServer: https://packages.webmethods.io
-  wpmRegistry: licensed
-  wpmVersion: v10.3.10.21
