@@ -11,6 +11,7 @@
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
+<<<<<<< HEAD
   <value name="build">5</value>
   <null name="description"/>
   <value name="created_date">15-07-2026 06:38:33 UTC</value>
@@ -21,4 +22,10 @@
   <null name="lazy_load_node_types"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
+=======
+  <null name="build"/>
+  <null name="description"/>
+  <value name="created_date">15-07-2026 06:38:33 UTC</value>
+  <null name="extendedProperties"/>
+>>>>>>> dbba18d (Added new service)
 </Values>
