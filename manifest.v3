@@ -11,8 +11,14 @@
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <null name="build"/>
+  <value name="build">1</value>
   <null name="description"/>
   <value name="created_date">15-07-2026 06:38:33 UTC</value>
   <null name="extendedProperties"/>
+  <value name="lazy_load">yes</value>
+  <value name="name">TS_GitProjectProject</value>
+  <null name="lazy_load_node_types"/>
+  <null name="target_server_version"/>
+  <value name="isProjectPackage">true</value>
+  <value name="lastUpdated">2026-07-16T09:51:47.289899094Z</value>
 </Values>
