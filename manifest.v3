@@ -15,10 +15,17 @@
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
+<<<<<<< HEAD
   <value name="build">1</value>
   <null name="description"/>
   <null name="created_date"/>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">false</value>
+=======
+  <null name="build"/>
+  <null name="description"/>
+  <value name="created_date">15-07-2026 06:38:33 UTC</value>
+  <null name="extendedProperties"/>
+>>>>>>> 94179a8 (Added new services and updated files)
 </Values>
