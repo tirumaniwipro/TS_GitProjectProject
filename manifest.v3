@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Values version="2.0">
-  <value name="lastUpdated">2026-07-19T04:22:10.814278713Z</value>
+  <value name="lastUpdated">2026-07-19T04:28:24.914979058Z</value>
   <value name="enabled">yes</value>
   <value name="lazy_load">yes</value>
   <value name="system_package">no</value>
@@ -17,7 +17,7 @@
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">5</value>
+  <value name="build">6</value>
   <null name="description"/>
   <null name="created_date"/>
   <null name="extendedProperties"/>

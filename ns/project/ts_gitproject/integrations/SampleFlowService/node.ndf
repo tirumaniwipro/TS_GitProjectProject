@@ -80,7 +80,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">srinivasa.tirumanisette4@wipro.com</value>
-    <value name="lastModifiedDate">1784434930450</value>
+    <value name="lastModifiedDate">1784435304443</value>
     <value name="displayName">SampleFlowService</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -98,6 +98,14 @@
           <value name="serviceName">pub.flow:debugLog</value>
           <value name="transformerSupport">false</value>
         </record>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <value name="nodePathForDebug">0.0</value>
+        <number name="ui_step_index" type="Long">2</number>
+        <value name="nodePathNew">0.0</value>
+        <number name="nodeIndex" type="Long">0</number>
+        <number name="lineNumberForDebug" type="Long">2</number>
+        <null name="mapSet"/>
+        <null name="outputMapSet"/>
       </record>
       <null name="/1"/>
       <null name="/1/0"/>
