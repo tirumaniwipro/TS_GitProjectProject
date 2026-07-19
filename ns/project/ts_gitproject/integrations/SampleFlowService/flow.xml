@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<FLOW VERSION="3.2" CLEANUP="false">
+<FLOW VERSION="3.2" CLEANUP="true">
   <COMMENT></COMMENT>
 
   <!-- nodes -->
@@ -10,8 +10,8 @@
 
   <!-- nodes -->
 
-<SEQUENCE NAME="NEW" EXIT-ON="FAILURE">
-</SEQUENCE>
+<INVOKE NAME="Flow" SERVICE="pub.flow:debugLog">
+</INVOKE>
 </SEQUENCE>
 
 <SEQUENCE EXIT-ON="FAILURE" FORM="CATCH">

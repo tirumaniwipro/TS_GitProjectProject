@@ -79,14 +79,26 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">srinivasa.tirumanisette4@wipro.com</value>
-    <value name="createdDate">1784104266260</value>
-    <value name="lastModifiedDate">1784104266260</value>
+    <value name="lastModifiedBy">srinivasa.tirumanisette4@wipro.com</value>
+    <value name="lastModifiedDate">1784434930450</value>
     <value name="displayName">SampleFlowService</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
       <null name="/0"/>
-      <null name="/0/0"/>
+      <record name="/0/0" javaclass="com.wm.util.Values">
+        <null name="name"/>
+        <value name="itemType">SERVICES</value>
+        <record name="serviceInfo" javaclass="com.wm.util.Values">
+          <value name="groupDisplayName">Flow</value>
+          <value name="groupName">flow</value>
+          <null name="services"/>
+        </record>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="displayName">debugLog</value>
+          <value name="serviceName">pub.flow:debugLog</value>
+          <value name="transformerSupport">false</value>
+        </record>
+      </record>
       <null name="/1"/>
       <null name="/1/0"/>
     </record>
