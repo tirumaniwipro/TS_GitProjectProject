@@ -11,6 +11,3 @@ packages:
   gitUrl: https://github.com/tirumaniwipro
   gitUsername: tirumaniwipro
   gitBranch: main
-- name: WmAmazonDynamoDBProvider
-  wpmServer: https://packages.webmethods.io
-  wpmRegistry: supported

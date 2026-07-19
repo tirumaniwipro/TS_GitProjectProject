@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Values version="2.0">
-  <value name="lastUpdated">2026-07-19T05:15:08.905904199Z</value>
+  <value name="lastUpdated">2026-07-19T05:19:48.693398622Z</value>
   <value name="enabled">yes</value>
   <value name="lazy_load">yes</value>
   <value name="system_package">no</value>
@@ -11,13 +11,12 @@
   <null name="shutdown_services"/>
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
-    <value name="WmAmazonDynamoDBProvider">12.0.0.0.9</value>
   </record>
   <null name="lazy_load_node_types"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">8</value>
+  <value name="build">9</value>
   <null name="description"/>
   <null name="created_date"/>
   <null name="extendedProperties"/>
