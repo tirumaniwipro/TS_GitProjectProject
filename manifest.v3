@@ -12,7 +12,7 @@
   <value name="listACL">Default</value>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build"></value>
+  <value name="build">1</value>
   <value name="description"></value>
   <value name="created_date">15-07-2026 06:38:33 UTC</value>
   <array name="extendedProperties" type="record" depth="1">
@@ -33,4 +33,10 @@
       <value name="value"></value>
     </record>
   </array>
+  <value name="lastUpdated">2026-07-20T09:04:15.484847163Z</value>
+  <value name="lazy_load">yes</value>
+  <value name="name">TS_GitProjectProject</value>
+  <null name="lazy_load_node_types"/>
+  <null name="target_server_version"/>
+  <value name="isProjectPackage">false</value>
 </Values>
