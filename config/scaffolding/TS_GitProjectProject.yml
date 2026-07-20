@@ -52,10 +52,6 @@ services:
   packages:
   - name: TS_GitProjectProject
     version: "1.0"
-- serviceName: project.ts_gitproject.integrations:SampleFlowService3
-  packages:
-  - name: TS_GitProjectProject
-    version: "1.0"
 - serviceName: project.ts_gitproject.integrations:SampleService_2
   packages:
   - name: TS_GitProjectProject
