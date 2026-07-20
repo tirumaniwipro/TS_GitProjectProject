@@ -11,3 +11,56 @@ packages:
   gitUrl: https://github.com/tirumaniwipro
   gitUsername: tirumaniwipro
   gitBranch: main
+services:
+- serviceName: TS_GitProjectProject.Services:addNumbers
+  packages:
+  - name: TS_GitProjectProject
+    version: "1.0"
+- serviceName: pub.math:addInts
+  packages:
+  - name: WmPublic
+    version: 12.1.0.0.875
+- serviceName: TS_GitProjectProject.Services:divideInts
+  packages:
+  - name: TS_GitProjectProject
+    version: "1.0"
+- serviceName: TS_GitProjectProject.Services:multiplyInts
+  packages:
+  - name: TS_GitProjectProject
+    version: "1.0"
+- serviceName: TS_GitProjectProject.Services:subtractNumber
+  packages:
+  - name: TS_GitProjectProject
+    version: "1.0"
+- serviceName: pub.math:subtractInts
+  packages:
+  - name: WmPublic
+    version: 12.1.0.0.875
+- serviceName: TS_GitProjectProject.Services:testService1
+  packages:
+  - name: TS_GitProjectProject
+    version: "1.0"
+- serviceName: TS_GitProjectProject.Services:testService2
+  packages:
+  - name: TS_GitProjectProject
+    version: "1.0"
+- serviceName: pub.flow:debugLog
+  packages:
+  - name: WmPublic
+    version: 12.1.0.0.875
+- serviceName: TS_GitProjectProject.Services:testService3
+  packages:
+  - name: TS_GitProjectProject
+    version: "1.0"
+- serviceName: project.ts_gitproject.integrations:SampleFlowService
+  packages:
+  - name: TS_GitProjectProject
+    version: "1.0"
+- serviceName: project.ts_gitproject.integrations:SampleFlowService3
+  packages:
+  - name: TS_GitProjectProject
+    version: "1.0"
+- serviceName: project.ts_gitproject.integrations:SampleService_2
+  packages:
+  - name: TS_GitProjectProject
+    version: "1.0"
