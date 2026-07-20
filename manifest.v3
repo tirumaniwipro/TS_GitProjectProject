@@ -1,25 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Values version="2.0">
-  <value name="lastUpdated">2026-07-20T05:47:46.670419759Z</value>
   <value name="enabled">yes</value>
-  <value name="lazy_load">yes</value>
   <value name="system_package">no</value>
   <value name="version">1.0</value>
-  <value name="name">TS_GitProjectProject</value>
   <null name="startup_services"/>
   <null name="shutdown_services"/>
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
+    <value name="WmJDBCAdapter">*.*</value>
   </record>
-  <null name="lazy_load_node_types"/>
-  <null name="listACL"/>
+  <value name="listACL">Default</value>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">10</value>
-  <null name="description"/>
-  <null name="created_date"/>
-  <null name="extendedProperties"/>
-  <null name="target_server_version"/>
-  <value name="isProjectPackage">true</value>
+  <value name="build"></value>
+  <value name="description"></value>
+  <value name="created_date">15-07-2026 06:38:33 UTC</value>
+  <array name="extendedProperties" type="record" depth="1">
+    <record javaclass="com.wm.util.Values">
+      <value name="key">displayName</value>
+      <value name="value"></value>
+    </record>
+    <record javaclass="com.wm.util.Values">
+      <value name="key">trusted</value>
+      <value name="value">no</value>
+    </record>
+    <record javaclass="com.wm.util.Values">
+      <value name="key">status</value>
+      <value name="value">Development</value>
+    </record>
+    <record javaclass="com.wm.util.Values">
+      <value name="key">tags</value>
+      <value name="value"></value>
+    </record>
+  </array>
 </Values>
