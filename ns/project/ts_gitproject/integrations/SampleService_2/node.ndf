@@ -45,9 +45,8 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">srinivasa.tirumanisette4@wipro.com</value>
-    <value name="createdDate">1784436021471</value>
-    <value name="lastModifiedDate">1784436021471</value>
+    <value name="lastModifiedBy">srinivasa.tirumanisette4@wipro.com</value>
+    <value name="lastModifiedDate">1784526463896</value>
     <value name="displayName">SampleService_2</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -70,6 +69,12 @@
         <number name="lineNumberForDebug" type="Long">1</number>
         <null name="mapSet"/>
         <null name="outputMapSet"/>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <value name="nodePathForDebug">0</value>
+      </record>
+      <record name="/1" javaclass="com.wm.util.Values">
+        <value name="itemType">ALL</value>
+        <value name="name">NEW</value>
       </record>
     </record>
   </record>
