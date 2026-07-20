@@ -11,6 +11,11 @@ packages:
   gitUrl: https://github.com/tirumaniwipro
   gitUsername: tirumaniwipro
   gitBranch: main
+- name: TSSamples
+  gitServerName: TSGitHub
+  gitUrl: https://github.com/tirumaniwipro
+  gitUsername: tirumaniwipro
+  gitBranch: main
 services:
 - serviceName: TS_GitProjectProject.Services:addNumbers
   packages:
